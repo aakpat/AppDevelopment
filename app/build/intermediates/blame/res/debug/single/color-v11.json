@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

@@ -1,7 +1,27 @@
 [
     {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -14,6 +34,14 @@
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
@@ -32,11 +60,23 @@
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/anim/abc_slide_out_top.xml"
     }
 ]

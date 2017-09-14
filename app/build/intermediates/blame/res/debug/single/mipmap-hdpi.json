@@ -4,6 +4,14 @@
         "source": "/home/aakash/Downloads/versionA/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/aakash/Documents/Git project/AppDevelopment/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/aakash/Documents/Git project/AppDevelopment/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/aakash/Downloads/versionA/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }

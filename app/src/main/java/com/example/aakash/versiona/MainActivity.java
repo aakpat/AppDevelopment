@@ -16,4 +16,19 @@ public class MainActivity extends AppCompatActivity {
         /*comment*/
     }
 
+    public void method2()
+    {
+        /*comment*/
+    }
+
+    public void method3(String a)
+    {
+        /*comment*/
+    }
+
+    public void method3(String a,String b)
+    {
+        /*comment*/
+    }
+
 }
