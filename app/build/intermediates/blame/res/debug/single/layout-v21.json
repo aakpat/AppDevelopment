@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout-v21/notification_action.xml"
+    }
+]
