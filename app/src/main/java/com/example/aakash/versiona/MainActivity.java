@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void method1(String a)
+    public void method1()
     {
         /*comment*/
     }
@@ -21,14 +21,14 @@ public class MainActivity extends AppCompatActivity {
         /*comment*/
     }
 
-    public void method3(String a)
+    public void method3()
     {
         /*comment*/
     }
 
-    public void method3(String a,String b)
+    public void method9()
     {
-        /*comment*/
+
     }
 
 }
