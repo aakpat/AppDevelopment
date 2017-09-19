@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Sep 19 11:24:45 EDT 2017
+#Tue Sep 19 12:16:06 EDT 2017
 210.set=ANDROID_RESOURCE
 282.file=/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/resources-debug.ap_/res/color/abc_secondary_text_material_dark.xml
 14.set=ANDROID_RESOURCE

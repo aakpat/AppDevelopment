@@ -1,0 +1,32 @@
+diff --git a/app/src/main/java/com/example/aakash/versiona/MainActivity.java b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+index 1c9247d..c5f7d28 100644
+--- a/app/src/main/java/com/example/aakash/versiona/MainActivity.java
++++ b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+@@ -14,21 +14,19 @@ public class MainActivity extends AppCompatActivity {
+         setContentView(R.layout.activity_main);
+     }
+ 
+-    public void method1()
++    public void method3(int x, String y)
+     {
+-        /*comment*/
+-    }
+ 
+-    public void method3(String x, String y)
+-    {
+-        a = "Changed";
+     }
+ 
+-    public void method5(){
++    public int method5(){
+         number1=10;
++        return number1;
+     }
+ 
+-    public void method6()
++    public String method6(String z)
+     {
++        a=z;
++        return a;
+     }
+ }
