@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    String a;
+    int number;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,14 +24,13 @@ public class MainActivity extends AppCompatActivity {
         /*comment*/
     }
 
-    public void method3()
+    public void method3(String x, String y)
     {
-        /*comment*/
+        a = "Random";
     }
 
-    public void method9()
-    {
-
+    public void method4(){
+        number=10;
     }
 
 }

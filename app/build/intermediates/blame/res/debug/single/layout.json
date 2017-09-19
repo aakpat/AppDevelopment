@@ -12,12 +12,12 @@
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/home/aakash/Documents/Git project/AppDevelopment/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/aakash/.android/build-cache/a4868749bdedcfc1886dd65f4c7cfe05508da6ea/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/aakash/Downloads/versionA/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
