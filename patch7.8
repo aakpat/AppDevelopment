@@ -1,0 +1,66 @@
+diff --git a/app/src/main/java/com/example/aakash/versiona/MainActivity.java b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+index 62133e4..21b9c69 100644
+--- a/app/src/main/java/com/example/aakash/versiona/MainActivity.java
++++ b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+@@ -5,9 +5,9 @@ import android.os.Bundle;
+ 
+ public class MainActivity extends AppCompatActivity {
+ 
++    final int a=0;
++    private int p=0;
+     String b;
+-    int number1, number2, number3, number4, number5;
+-    int number=11;
+ 
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+@@ -17,44 +17,18 @@ public class MainActivity extends AppCompatActivity {
+ 
+     public void method3(int x, String y)
+     {
+-        number1=1;
+-        number2=x;
+-        number3=3;
++       b=y;
+     }
+ 
+-    public void method4(String v)
+-    {
++    public void methoda(){ }
+ 
+-    }
++    private void methodb(){ }
+ 
+-    public int method5(){
+-        return 1;
+-    }
+-
+-    public void method7()
++    public void method4(String v)
+     {
+-        number3=30;
++        System.out.println(p);
+     }
+ 
+-    public void method8()
+-    {
+-        number4=4;
+-        b="bb";
+-    }
+ 
+-    public void method9()
+-    {
+-        number5=5;
+-    }
+ 
+-    public void method10()
+-    {
+-        int number6;
+-        number6=6;
+-    }
+-    public void method11()
+-    {
+-        String s;
+-        s="hello";
+-    }
+ }
