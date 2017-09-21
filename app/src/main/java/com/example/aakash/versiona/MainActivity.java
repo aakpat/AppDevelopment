@@ -5,9 +5,14 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int a=0;
-    private int p=0;
-    String b;
+    final int f=0;
+    private int j=0;
+
+    int i=10;
+    String s="Hello";
+    int k=11;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,20 +20,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void method3(int x, String y)
+    public void method3(String y)
     {
-       b=y;
+
     }
 
-    public void methoda(){ }
-
-    private void methodb(){ }
-
-    public void method4(String v)
-    {
-        System.out.println(p);
-    }
-
-
+    public void methoda() {  }
 
 }
