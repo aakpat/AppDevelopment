@@ -5,12 +5,11 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int f=0;
-    private int j=0;
+    final int f=1;
+    private int j=1;
 
-    int i=10;
-    String s="Hello";
-    int k=11;
+    int i=11;
+
 
 
 
