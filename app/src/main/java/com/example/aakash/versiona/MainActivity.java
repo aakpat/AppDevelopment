@@ -5,10 +5,10 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int f=1;
-    private int j=1;
+    int f=1;
+    int j=1;
 
-    int i=11;
+    int i=12;
 
 
 
@@ -19,11 +19,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void method3(String y)
+    public void method3()
     {
 
     }
 
-    public void methoda() {  }
+    public void methoda(String y) {  }
 
 }

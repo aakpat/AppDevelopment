@@ -1,0 +1,29 @@
+diff --git a/app/src/main/java/com/example/aakash/versiona/MainActivity.java b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+index 31e9538..a6bdb47 100644
+--- a/app/src/main/java/com/example/aakash/versiona/MainActivity.java
++++ b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
+@@ -5,8 +5,8 @@ import android.os.Bundle;
+ 
+ public class MainActivity extends AppCompatActivity {
+ 
+-    final int f=1;
+-    private int j=1;
++    int f=1;
++    int j=1;
+ 
+     int i=11;
+ 
+@@ -19,11 +19,11 @@ public class MainActivity extends AppCompatActivity {
+         setContentView(R.layout.activity_main);
+     }
+ 
+-    public void method3(String y)
++    public void method3()
+     {
+ 
+     }
+ 
+-    public void methoda() {  }
++    public void methoda(String y) {  }
+ 
+ }
