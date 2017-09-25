@@ -1,27 +1,21 @@
 diff --git a/app/src/main/java/com/example/aakash/versiona/MainActivity.java b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
-index 826184a..39e7a10 100644
+index 39e7a10..84e46d1 100644
 --- a/app/src/main/java/com/example/aakash/versiona/MainActivity.java
 +++ b/app/src/main/java/com/example/aakash/versiona/MainActivity.java
-@@ -4,15 +4,11 @@ import android.support.v7.app.AppCompatActivity;
- import android.os.Bundle;
- 
- public class MainActivity extends AppCompatActivity {
--
-     int f=1;
+@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
      int j=1;
--
      int i=12;
  
--
--
--
-+    static int k=0;
+-    static int k=0;
++    static int k=1;
      @Override
      protected void onCreate(Bundle savedInstanceState) {
          super.onCreate(savedInstanceState);
 
 
+
 ===
+
 v0 has 2 classes, v1 has 2 classes.
 E = 0. R = 2. C = 0
 Classes - Added:     0, Changed:     2, Deleted:     0.
